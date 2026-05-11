@@ -16,9 +16,9 @@ let currentPaymentType = ""; // HALF or FULL
 /************************************
  * API ENDPOINTS
  ************************************/
-const INVENTORY_API = "https://moin31.app.n8n.cloud/webhook/pan-inventory";
+const INVENTORY_API = "https://uheman5.app.n8n.cloud/webhook/pan-inventory";
 const ORDER_API = "https://moin31.app.n8n.cloud/webhook/paan-order";
-const PAYMENT_API = "https://moin31.app.n8n.cloud/webhook/payment";
+const PAYMENT_API = "https://uheman5.app.n8n.cloud/webhook/paan-order";
 
 /************************************
  * DOM ELEMENT REFERENCES
